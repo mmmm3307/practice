@@ -14,7 +14,5 @@ public class Test5 {
         int max = temp > height3 ? temp : height3;
 
         System.out.println(max);
-
-
     }
 }
